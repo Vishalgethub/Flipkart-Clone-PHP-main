@@ -1,9 +1,5 @@
 <<<<<<< HEAD
 <center>
-=======
-# Flipkart-Clone-PHP
-https://vishalgethub.github.io/Flipkart-Clone-PHP-main/
->>>>>>> 19f5347e06bf2921a7a0c3302f42d309c5df9d43
 
 <img src="./poster.png" alt="amazon Poster"/>
 
