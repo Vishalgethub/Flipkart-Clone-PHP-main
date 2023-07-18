@@ -9,7 +9,7 @@
 | App Name  | Hosted URL                                                    |
 | --------- | ------------------------------------------------------------- |
  
-| Flipkart    | [visit ↗]
+| Flipkart  | [visit ↗]
 (https://flipkart-web.vercel.app/)               |
 | Amazon    | [visit ↗](https://clone-9a6c5.firebaseapp.com/)               |
 | Google    | [visit ↗](https://clone-d1ff9.web.app/)                       |
